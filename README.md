@@ -7,6 +7,13 @@
 ## Objective 
 ## Dataset 
 The data for this project is sourced from the Kaggle dataset: <a href = "https://www.kaggle.com/datasets/raghadalharbi/all-products-available-on-sephora-website">Sephora_data</a>
+## Skills and Concepts Demonstrated
+<ul>
+    <li><strong>Data Cleaning</strong> (using Power Query)</li>
+    <li><strong>Data Analysis Expressions (DAX) Functions</strong> for advanced calculations</li>
+    <li><strong>Dashboard Design</strong> with an intuitive and interactive layout</li>
+    <li><strong>Data Visualization</strong> using Power BI charts and graphs</li>
+</ul>
 ## Key insights and recommendations
 <h3>1. Top-Rated and Most-Loved Products Are Primarily Makeup Items</h3>
 <ul>
