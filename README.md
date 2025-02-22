@@ -1,5 +1,5 @@
 # Sephora_website
-<img src="[https://your-image-link.com/dashboard.png](https://www.thebudgetfashionista.com/wp-content/uploads/2021/03/sephora-logo-720x405.jpg)">
+<img src="https://your-image-link.com/dashboard.png](https://www.thebudgetfashionista.com/wp-content/uploads/2021/03/sephora-logo-720x405.jpg" alt="Sephora Dashboard" width="800">
 
 ## Overview
 <i>Sephora is a global beauty and cosmetics retailer known for offering a wide range of makeup, skincare, haircare, fragrance, and beauty tools from both luxury and indie brands. Founded in France in 1969, it has since expanded worldwide, with thousands of stores and a strong online presence.</i>
