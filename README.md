@@ -26,6 +26,9 @@ The data for this project is sourced from the Kaggle dataset: <a href = "https:/
     <li><strong>Data Visualization</strong> using Power BI charts and graphs</li>
 </ul>
 
+## Dashboard
+![Sephora Dashboard](https://raw.githubusercontent.com/thmngan/Sephora_website/main/Dashboard_sephora.png)
+
 ## Key insights and recommendations
 <h3>1. Top-Rated and Most-Loved Products Are Primarily Makeup Items</h3>
 <ul>
